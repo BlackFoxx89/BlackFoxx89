@@ -1,7 +1,7 @@
 <image src = "dev.gif" width = "600px">
 
 
-https://github.com/Insuetus/Insuetus/raw/main/contributions.svg
+
 
 
 
