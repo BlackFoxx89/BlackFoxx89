@@ -1,4 +1,4 @@
-<image src = "dev.gif" width = "600px">
+<image src = "dev.gif" width = "200px">
 
 
 
